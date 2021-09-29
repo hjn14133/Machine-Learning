@@ -1,2 +1,2 @@
 # Machine-Learning
-Using Machine Learning models to predict cotton fiber quality parameters
+Machine Learning models Training, Testing, Validation, Comparasion and HyperParameter Tuning
